@@ -1,0 +1,2 @@
+# Cybersecurity-Client-Reporting-Dashboard-Template
+The Cybersecurity Client Reporting Dashboard Template is a comprehensive, ready-to-use solution designed for cybersecurity professionals, consultants, and managed security service providers (MSSPs) who need to deliver clear, actionable security reports to their clients. This template streamlines the process of translating complex security data into
